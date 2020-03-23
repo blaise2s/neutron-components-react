@@ -1,6 +1,6 @@
 {
-  "name": "neutron-components",
-  "version": "0.0.6",
+  "name": "neutron-components-react",
+  "version": "0.0.0",
   "scripts": {
     "build": "ng build",
     "e2e": "ng e2e",
@@ -66,12 +66,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/blaise2s/neutron-components.git"
+    "url": "git+https://github.com/blaise2s/neutron-components-react.git"
   },
   "author": "Blaise Schaeffer",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/blaise2s/neutron-components/issues"
+    "url": "https://github.com/blaise2s/neutron-components-react/issues"
   },
   "husky": {
     "hooks": {
